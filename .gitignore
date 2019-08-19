@@ -7,3 +7,6 @@ __pycache__/
 .nbgrader.log
 *.scm~
 **/*-respostas.*
+env/*
+.hypothesis/*
+!.hypothesis/examples/
